@@ -1,9 +1,3 @@
-Here’s a clean, professional **README.md** you can paste directly into your GitHub repository for:
-
-**3D ResNet With Temporal Feature Stacking and LSTM**
-
----
-
 # 3D ResNet With Temporal Feature Stacking and LSTM
 
 A deep learning pipeline for **spatio-temporal object understanding** that combines **3D CNN feature extraction** with **temporal sequence modeling** using **LSTM**. Designed for video / sequential frame data such as **KITTI**, this architecture learns both **appearance** and **motion dynamics** across time.
@@ -149,5 +143,3 @@ Output: Class label (Car, Van, Truck, Pedestrian, Cyclist)
 MIT License
 
 ---
-
-If you want, tell me your **GitHub username** and I’ll replace the clone URL and tailor this README exactly to your repo.
