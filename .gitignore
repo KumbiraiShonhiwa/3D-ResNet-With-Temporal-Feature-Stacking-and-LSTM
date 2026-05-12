@@ -3,3 +3,6 @@
 
 # Data directory
 /data/
+
+# Node Modules
+/doc/node_modules/
