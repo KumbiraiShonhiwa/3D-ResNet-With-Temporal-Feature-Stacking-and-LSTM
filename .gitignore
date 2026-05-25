@@ -5,4 +5,5 @@
 /data/
 
 # Node Modules
-/doc/node_modules/
+/docs/node_modules/
+/docs/Presentation/node_modules/
