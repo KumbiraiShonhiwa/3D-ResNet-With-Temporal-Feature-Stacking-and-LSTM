@@ -1,0 +1,18 @@
+# PyTorch builds below are CUDA 11.8. Install torch/torchvision first with:
+#   pip install torch==2.7.1+cu118 torchvision==0.22.1+cu118 \
+#       --index-url https://download.pytorch.org/whl/cu118
+# then: pip install -r requirements.txt
+#
+# For CPU-only, drop the "+cu118" suffixes and omit the index URL.
+torch==2.7.1+cu118
+torchvision==0.22.1+cu118
+
+numpy==2.4.3
+opencv-python==4.13.0.92
+scikit-learn==1.8.0
+matplotlib==3.10.9
+pandas==3.0.3
+
+# Notebook execution
+ipykernel==7.2.0
+nbformat==5.10.4

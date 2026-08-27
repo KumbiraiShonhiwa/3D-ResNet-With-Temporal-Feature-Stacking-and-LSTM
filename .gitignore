@@ -1,9 +1,19 @@
 # Virtual environment
 .venv/
 
-# Data directory
+# Data directory (raw KITTI/MNIST inputs and generated caches)
 /data/
 
-# Node Modules
+# Generated caches and run artefacts
+/runs/
+*.pt
+*.keras
+
+# Node modules
 /docs/node_modules/
 /docs/Presentation/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
